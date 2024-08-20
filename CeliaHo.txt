@@ -1,0 +1,3 @@
+ReadingMaterial [format=print, numPages=8]
+ReadingMaterial [format=digital, numPages=90]: Newspaper
+ReadingMaterial [format=audio, numPages=30], [binding=none]: Book
